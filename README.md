@@ -22,9 +22,9 @@ To practice and showcase unsupervised and supervised machine learning skills and
 The code was written in python 3 and requires the following packages: numpy, pandas, matplotlib, seaborn, ast, time, sklearn collections, and operator.  
 
 ## Summary of Results
-See GitHub repo and Medium blog post (
+See Medium blog post (
 https://medium.com/@deevesh/arvato-financial-services-customer-segmentation-report-udacity-capstone-project-33bfc5ca33bf ) for overview of results.  
 
 ## Licenses and Acknowledgements
 This project was completed as part of the Udacity Data Scientist Nanodegree.
-
+Data was provided by Arvato Financial Services
